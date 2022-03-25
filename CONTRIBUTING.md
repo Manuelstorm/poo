@@ -1,3 +1,3 @@
-Myproject
-Ingegneria del software
+MyProject
+Ingegneria del Software
 Esercitazione 2
